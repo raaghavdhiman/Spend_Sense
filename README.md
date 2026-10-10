@@ -8,7 +8,7 @@ Built in 36 hours for the **AI + Business** hackathon: turn data into insights,
 predictions and recommendations.
 
 **Live demo (Momen preview):** https://ed09ok818wgle.cave.momenapp.com/
-**Demo video:** <video link>
+**Demo video:** https://youtu.be/Fa3l93o6TyI
 
 ## The problem
 The same item is bought under many spellings ("A4 copier paper 75gsm 500 sht",
