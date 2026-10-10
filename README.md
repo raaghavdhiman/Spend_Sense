@@ -8,6 +8,11 @@ Built in 36 hours for the **AI + Business** hackathon: turn data into insights,
 predictions and recommendations.
 
 **Live demo (Momen preview):** https://ed09ok818wgle.cave.momenapp.com/
+
+> **Note:** The Momen preview link is regenerated every 24 hours. If it doesn't
+> load, the demo video above shows the full flow, and the link in this README
+> is refreshed daily.
+
 **Demo video:** https://youtu.be/Fa3l93o6TyI
 
 ## The problem
