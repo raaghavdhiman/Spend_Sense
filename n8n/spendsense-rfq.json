@@ -1,0 +1,84 @@
+{
+  "name": "SpendSense RFQ",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "YOUR-WEBHOOK-ID",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.2,
+      "position": [
+        0,
+        0
+      ],
+      "id": "61194a6e-b582-4773-9786-22fe4a247619",
+      "name": "Webhook",
+      "webhookId": "YOUR-WEBHOOK-ID"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.agentboxd.com/v1/inboxes/YOUR-SPENDSENSE-INBOX-ID/messages/send",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "to",
+              "value": "vendor-1@homingbox.net"
+            },
+            {
+              "name": "subject",
+              "value": "=RFQ:  {{ $json.body.item_name }}"
+            },
+            {
+              "name": "text",
+              "value": "=Hello, we would like your best quotation for  {{ $json.body.item_name }}. Our current benchmark supplier is {{ $json.body.best_vendor }}. Please reply with your price per pack and lead time. Regards, SpendSense"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.5,
+      "position": [
+        224,
+        0
+      ],
+      "id": "f9fd16b6-3b9b-41dc-a314-9c0b18d7532e",
+      "name": "HTTP Request",
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "x1fQl26LxfhlUfuX",
+          "name": "Header Auth account"
+        }
+      }
+    }
+  ],
+  
+  "connections": {
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "HTTP Request",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "versionId": "12f62b94-c64a-4906-ab66-d9746dcf3a92",
+  "nodeGroups": [],
+  "id": "1iOLnxA9XBUYGVeD",
+  "tags": []
+}
