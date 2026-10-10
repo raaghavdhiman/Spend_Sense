@@ -1,0 +1,272 @@
+{
+ "12A compatible black toner cartridge": {
+  "type": "toner cartridge",
+  "spec": "12a",
+  "colour": "black",
+  "pack_qty": 1
+ },
+ "A4 75gsm photocopy paper ream": {
+  "type": "copier paper",
+  "spec": "a4 75gsm",
+  "colour": "none",
+  "pack_qty": 500
+ },
+ "A4 PLASTIC FILE FOLDER BLUE 25PK": {
+  "type": "file folder",
+  "spec": "a4 plastic",
+  "colour": "blue",
+  "pack_qty": 25
+ },
+ "A4 Paper 75GSM Ream 500 sheets": {
+  "type": "copier paper",
+  "spec": "a4 75gsm",
+  "colour": "none",
+  "pack_qty": 500
+ },
+ "A4 size copy paper 75g 1 ream": {
+  "type": "copier paper",
+  "spec": "a4 75gsm",
+  "colour": "none",
+  "pack_qty": 500
+ },
+ "A5 200-page ruled notebook x6": {
+  "type": "notebook",
+  "spec": "a5 200-page ruled",
+  "colour": "none",
+  "pack_qty": 6
+ },
+ "A5 ruled notebooks 200 pg (6 pcs)": {
+  "type": "notebook",
+  "spec": "a5 ruled 200pg",
+  "colour": "none",
+  "pack_qty": 6
+ },
+ "BLACK BALL PEN 0.7 (50 PCS BOX)": {
+  "type": "ballpoint pen",
+  "spec": "0.7mm",
+  "colour": "black",
+  "pack_qty": 50
+ },
+ "BLACK WHITEBOARD MARKER BULLET TIP 10PK": {
+  "type": "whiteboard marker",
+  "spec": "bullet tip",
+  "colour": "black",
+  "pack_qty": 10
+ },
+ "BLUE BALL PEN 0.7 (50 PCS BOX)": {
+  "type": "ballpoint pen",
+  "spec": "0.7mm",
+  "colour": "blue",
+  "pack_qty": 50
+ },
+ "Ball pen black 0.7mm box of 50": {
+  "type": "ballpoint pen",
+  "spec": "0.7mm",
+  "colour": "black",
+  "pack_qty": 50
+ },
+ "Ball pen blue 0.7mm box of 50": {
+  "type": "ballpoint pen",
+  "spec": "0.7mm",
+  "colour": "blue",
+  "pack_qty": 50
+ },
+ "Ballpoint pens, black, 0.7 mm, pack 50": {
+  "type": "ballpoint pen",
+  "spec": "0.7mm",
+  "colour": "black",
+  "pack_qty": 50
+ },
+ "Ballpoint pens, blue, 0.7 mm, pack 50": {
+  "type": "ballpoint pen",
+  "spec": "0.7mm",
+  "colour": "blue",
+  "pack_qty": 50
+ },
+ "Black ball point pen 0.7 box/50": {
+  "type": "ballpoint pen",
+  "spec": "0.7mm",
+  "colour": "black",
+  "pack_qty": 50
+ },
+ "Black bullet-tip whiteboard markers x10": {
+  "type": "whiteboard marker",
+  "spec": "bullet tip",
+  "colour": "black",
+  "pack_qty": 10
+ },
+ "Black toner, 12A, compatible": {
+  "type": "toner cartridge",
+  "spec": "12a",
+  "colour": "black",
+  "pack_qty": 1
+ },
+ "Blue ball point pen 0.7 box/50": {
+  "type": "ballpoint pen",
+  "spec": "0.7mm",
+  "colour": "blue",
+  "pack_qty": 50
+ },
+ "Blue plastic file folders A4 - 25 pack": {
+  "type": "file folder",
+  "spec": "a4",
+  "colour": "blue",
+  "pack_qty": 25
+ },
+ "Compatible toner 12A black 1 pc": {
+  "type": "toner cartridge",
+  "spec": "12a",
+  "colour": "black",
+  "pack_qty": 1
+ },
+ "Copier paper A4 75 gsm (500 shts)": {
+  "type": "copier paper",
+  "spec": "a4 75gsm",
+  "colour": "none",
+  "pack_qty": 500
+ },
+ "File folder A4 plastic blue pack of 25": {
+  "type": "file folder",
+  "spec": "a4 plastic",
+  "colour": "blue",
+  "pack_qty": 25
+ },
+ "Folder file A4 plastic (blue) x25": {
+  "type": "file folder",
+  "spec": "a4 plastic",
+  "colour": "blue",
+  "pack_qty": 25
+ },
+ "HIGHLIGHTER PEN YELLOW CHISEL 10PK": {
+  "type": "highlighter",
+  "spec": "chisel",
+  "colour": "yellow",
+  "pack_qty": 10
+ },
+ "Hi-lighter yellow chisel tip 10 pack": {
+  "type": "highlighter",
+  "spec": "chisel tip",
+  "colour": "yellow",
+  "pack_qty": 10
+ },
+ "Highlighter yellow chisel tip pack of 10": {
+  "type": "highlighter",
+  "spec": "chisel tip",
+  "colour": "yellow",
+  "pack_qty": 10
+ },
+ "Marker whiteboard blk bullet 10 pack": {
+  "type": "whiteboard marker",
+  "spec": "bullet",
+  "colour": "black",
+  "pack_qty": 10
+ },
+ "Note book A5 lined 200pgs set of 6": {
+  "type": "notebook",
+  "spec": "a5 lined 200pgs",
+  "colour": "none",
+  "pack_qty": 6
+ },
+ "Notebook A5 ruled 200 pages pack of 6": {
+  "type": "notebook",
+  "spec": "a5 ruled 200 pages",
+  "colour": "none",
+  "pack_qty": 6
+ },
+ "PAPER A4 75 GSM 500S": {
+  "type": "copier paper",
+  "spec": "a4 75gsm",
+  "colour": "none",
+  "pack_qty": 500
+ },
+ "Pen ballpoint black 0.7mm 50pk": {
+  "type": "ballpoint pen",
+  "spec": "0.7mm",
+  "colour": "black",
+  "pack_qty": 50
+ },
+ "Pen ballpoint blue 0.7mm 50pk": {
+  "type": "ballpoint pen",
+  "spec": "0.7mm",
+  "colour": "blue",
+  "pack_qty": 50
+ },
+ "Plastic folders A4 blue 25 pcs": {
+  "type": "file folder",
+  "spec": "a4",
+  "colour": "blue",
+  "pack_qty": 25
+ },
+ "Post-it style notes 3 x 3 in yellow pack 12": {
+  "type": "sticky notes",
+  "spec": "3x3in",
+  "colour": "yellow",
+  "pack_qty": 12
+ },
+ "RULED NOTEBOOK A5 200 PAGES 6PK": {
+  "type": "notebook",
+  "spec": "a5 ruled 200 pages",
+  "colour": "none",
+  "pack_qty": 6
+ },
+ "Sticky notes 3x3 inch yellow 12 pads": {
+  "type": "sticky notes",
+  "spec": "3x3in",
+  "colour": "yellow",
+  "pack_qty": 12
+ },
+ "Sticky pad 3x3in yellow 12pk": {
+  "type": "sticky notes",
+  "spec": "3x3in",
+  "colour": "yellow",
+  "pack_qty": 12
+ },
+ "TONER CART 12A BLACK COMPATIBLE": {
+  "type": "toner cartridge",
+  "spec": "12a",
+  "colour": "black",
+  "pack_qty": 1
+ },
+ "Toner cartridge 12A compatible black": {
+  "type": "toner cartridge",
+  "spec": "12a",
+  "colour": "black",
+  "pack_qty": 1
+ },
+ "White board markers, black, bullet, 10 pcs": {
+  "type": "whiteboard marker",
+  "spec": "bullet",
+  "colour": "black",
+  "pack_qty": 10
+ },
+ "Whiteboard marker black bullet tip box of 10": {
+  "type": "whiteboard marker",
+  "spec": "bullet tip",
+  "colour": "black",
+  "pack_qty": 10
+ },
+ "YELLOW STICKY NOTE PAD 3X3 (12 PADS)": {
+  "type": "sticky notes",
+  "spec": "3x3",
+  "colour": "yellow",
+  "pack_qty": 12
+ },
+ "Yellow chisel highlighter x10": {
+  "type": "highlighter",
+  "spec": "chisel",
+  "colour": "yellow",
+  "pack_qty": 10
+ },
+ "Yellow highlighters, chisel, 10 pcs": {
+  "type": "highlighter",
+  "spec": "chisel",
+  "colour": "yellow",
+  "pack_qty": 10
+ },
+ "Yellow sticky notes 3x3 inch - set of 12": {
+  "type": "sticky notes",
+  "spec": "3x3in",
+  "colour": "yellow",
+  "pack_qty": 12
+ }
+}

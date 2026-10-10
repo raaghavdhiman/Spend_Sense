@@ -1,0 +1,6 @@
+pandas
+requests
+python-dotenv
+openai
+pydantic
+agentboxd @ git+https://github.com/agentboxd/agentboxd#subdirectory=sdk-python

@@ -1,0 +1,24 @@
+[project]
+name = "forgehacks"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Raaghav", email = "raaghavdhiman510@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "agentboxd>=0.1.0",
+    "dotenv>=0.9.9",
+    "numpy>=2.5.3",
+    "openai>=3.26.1",
+    "pandas>=3.0.6",
+    "requests>=2.34.2",
+]
+
+[project.scripts]
+forgehacks = "forgehacks:main"
+
+[build-system]
+requires = ["uv_build>=0.12.17,<0.13.0"]
+build-backend = "uv_build"
