@@ -7,7 +7,7 @@ vendor a request for quotation (RFQ) and reads the quote that comes back.
 Built in 36 hours for the **AI + Business** hackathon: turn data into insights,
 predictions and recommendations.
 
-**Live demo (Momen preview):** <preview link>
+**Live demo (Momen preview):** https://ed09ok818wgle.cave.momenapp.com/
 **Demo video:** <video link>
 
 ## The problem
