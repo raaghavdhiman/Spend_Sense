@@ -77,6 +77,8 @@ recommendations, evidence, status, quote (all Text except the BigInt).
 `n8n/spendsense-rfq.json` is the exported workflow. Import it into n8n, add a Header
 Auth credential for Agentboxd, and publish it.
 
+Replace YOUR-WEBHOOK-ID and YOUR-SPENDSENSE-INBOX-ID in the workflow with your own values.
+
 ## Limitations
 - Data is synthetic and the vendor is a bot.
 - No login: the prototype's Momen permissions are open.
